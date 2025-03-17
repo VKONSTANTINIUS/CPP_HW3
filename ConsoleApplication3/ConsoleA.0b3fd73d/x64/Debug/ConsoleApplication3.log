@@ -1,0 +1,13 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(135,13): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(421,17): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(709,17): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(997,17): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(1288,17): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(1577,16): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(1866,16): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(2155,16): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(2446,16): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(2735,16): warning C4129: '(': unrecognized character escape sequence
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\ConsoleApplication3.cpp(3048,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
